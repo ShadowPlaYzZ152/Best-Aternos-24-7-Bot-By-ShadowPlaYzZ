@@ -1,0 +1,13 @@
+{
+  "name": "aternos-pappu-bhaiya-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.3.1",
+    "mineflayer-pathfinder": "^1.0.0",
+    "minecraft-data": "^2.0.0"
+  }
+}
